@@ -1,2 +1,2 @@
 # CS591
-Linux project
+Linux
